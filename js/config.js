@@ -93,7 +93,7 @@ let respecConfig = {
     },
     {
       value: "Dien een melding in",
-      href: "https://github.com/Geonovum/mim-best-practices/issues/new"
+      href: "https://github.com/Geonovum/mim-metamodel/issues/new"
     },
     {
       value: "Revisiehistorie",
