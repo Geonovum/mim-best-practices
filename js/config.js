@@ -77,7 +77,34 @@ let respecConfig = {
 
   // TODO: Vul de github URL in.
   //neem hier de URL van de github repository op waar het respec document in staat
-  github: "https://github.com/Geonovum/mim-best-practices",
+//  github: "https://github.com/Geonovum/mim-best-practices",
+
+//Omdat de links in de 'Doe mee' sectie niet allemaal naar dezelfde repository moeten leiden is hier i.p.v. van de 'github' property een 'otherLinks'
+//property geplaatst met de key die overeenkomt met de 'Doe mee' sectie en daarin de betreffende properties.
+  otherLinks: [{
+    key: "Doe mee",
+    data: [{
+      value: "Geonovum/mim-best-practices",
+      href: "https://github.com/Geonovum/mim-best-practices"
+    },
+    {
+      value: "All issues",
+      href: "https://github.com/orgs/Geonovum/projects/24/views/1?filterQuery=label%3A%22Best+practice%22&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Created"
+    },
+    {
+      value: "Dien een melding in",
+      href: "https://github.com/Geonovum/mim-best-practices/issues/new"
+    },
+    {
+      value: "Revisiehistorie",
+      href: "https://github.com/Geonovum/mim-best-practices/commits"
+    },
+    {
+      value: "Pull requests",
+      href: "https://github.com/Geonovum/mim-best-practices/pulls"
+    },
+    ]
+  }],
 
   // Create PDF and link to file in header (optional):
   // TODO: Change the filename as preferred.
