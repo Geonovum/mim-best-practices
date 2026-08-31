@@ -41,10 +41,10 @@ let respecConfig = {
 
   //-- publishDate is verplicht. Als je werkversie gekozen hebt  dan pakt Respec
   //-- de pushdate maar de publishDate is nog steeds verplicht.
-  publishDate: "2026-02-09",
+  publishDate: "2026-08-31",
   
   //-- publishVersion is verplicht. Hij mag wel leeg zijn [], maar niet de lege string zijn "".
-  publishVersion: [],
+  publishVersion: "0.0.1",
  
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beide aan/uit! 
   //previousPublishDate: "2014-05-01",
@@ -58,9 +58,9 @@ let respecConfig = {
   editors:
     [
       {
-        name: "voornaam achternaam",
-        company: "Geonovum",
-        companyURL: "https://www.geonovum.nl",
+        name: "Robert Melskens",
+        company: "VNG Realisatie",
+        companyURL: "https://www.vng.nl",
       }
     ],
 
@@ -69,9 +69,9 @@ let respecConfig = {
   authors:
     [
       {
-        name: "voornaam achternaam",
-        company: "Geonovum",
-        companyURL: "https://www.geonovum.nl",
+        name: "Robert Melskens",
+        company: "VNG Realisatie",
+        companyURL: "https://www.vng.nl",
       }
     ],
 
