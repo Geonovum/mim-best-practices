@@ -1,6 +1,6 @@
 ## Modelsoorten Op
 
-MIM maakt vanaf versie 2.0 onderscheid in Conceptuele informatiemodellen en Logische gegevensmodellen. Conceptuele informatiemodellen bevinden zich op MIM niveau II en de Logische gegevensmodellen op niveau III. Op beide niveau's kunnen zich meerdere en ook nog andere modellen bevinden. Zo is een Bedrijfs Objecten Model (BOM) ook een conceptueel model dat zich naast het Conceptueel Informatiemodel (CIM) op niveau II bevind. Een BOM is echter geen conceptueel model in de zin zoals het in het MIM is beschreven. Op niveau III kan zich naast een Logisch Gegevensmodel (LGM) voor de administratie ook een LGM bevinden voor de gegevensuitwisseling.
+MIM maakt vanaf versie 2.0 onderscheid in Conceptuele informatiemodellen en Logische gegevensmodellen. Conceptuele informatiemodellen bevinden zich op MIM niveau II en de Logische gegevensmodellen op niveau III. Op beide niveau's kunnen zich meerdere en ook nog andere modellen bevinden. Zo is een Bedrijfs Objecten Model (BOM) ook een conceptueel model dat zich naast het Conceptueel Informatiemodel (CIM) op niveau II bevind. Een BOM is echter geen conceptueel model in de zin zoals het in het MIM is beschreven. Op niveau III kan zich naast een Logisch Gegevensmodel (LGM) voor de administratie bijv. ook een LGM bevinden voor de gegevensuitwisseling.
 
 Onderscheid tussen deze diverse modellen is echter niet voor iedereen duidelijk en om die reden proberen we daar hier meer duidelijkheid in te verschaffen.
 
